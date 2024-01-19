@@ -24,4 +24,3 @@ void pall(stack_t **head, unsigned int line_number)
         current = current->next;
     }
 }
-
